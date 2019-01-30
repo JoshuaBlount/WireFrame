@@ -1,0 +1,34 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(62, 61, 61);
+}
+
+a {
+  color: #00f8fb;
+}
+
+.hidden {
+  display: none;
+}
+
+.title {
+  color: #FFFFFF;
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.userGuide {
+  color: #FFFFFF;
+  font-size: 20px;
+  text-align: center;
+}
+
+#results {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  max-width: 75%;
+}
